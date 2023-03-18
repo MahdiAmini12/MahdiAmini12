@@ -10,8 +10,10 @@
 - Speech Processing
 - Computer Vision
 - Image Processing
- *** 
+ 
 <h4 align="center">Follow your dreams</h4>
+
+***
 
 <h5 align="center">- 🔭 I’m currently working on Smart personal assistant</h5>
 
