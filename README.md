@@ -9,7 +9,7 @@
 - Deep learning
 - Natural language processing
 
-<h4 align="center">Things got bugs, gonna smash them one by one</h4>
+<h4 align="center">Follow your dreams</h4>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushi-droid&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
 
