@@ -7,15 +7,9 @@
 - Python
 - Machine Learning
 - Deep learning
-- Natural language processing
+- Speech Processing
+- Computer Vision
+- Image Processing
 
 <h4 align="center">Follow your dreams</h4>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushi-droid&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=aayushi-droid&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-- 📝 I regulary write articles on [Aayushi's Blog](http://aayushi-droid.github.io/)
-
-<p align="center">
-<a href="https://dev.to/aayushidroid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aayushi-droid" height="40" width="40" /></a>
-</p>
