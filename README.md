@@ -15,7 +15,7 @@
 
 ***
 
-<p align="center">- 🔭 I’m currently working on Smart personal assistant                         </p>
+- 🔭 I’m currently working on Smart personal assistant                     
 
 <p align="center">- 👯 I’m looking to collaborate on Starting a Startup                          </p>
 
