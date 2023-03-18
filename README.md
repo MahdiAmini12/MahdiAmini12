@@ -13,9 +13,9 @@
 
 <h4 align="center">Follow your dreams</h4>
 
-<h5 align="center">- 🔭 I’m currently working on Smart personal assistant
-- 👯 I’m looking to collaborate on Starting a Startup
-- 📫 How to reach me: mohamadmahdiamini122@gmail.com
-- ⚡ Fun fact: In 2016, a challenge was developed that asked AI systems to write a meaningful and beautiful poem, and the result was very interesting! AI systems wrote poems that some of them were very beautiful and acceptable, while others were funny and meaningless.</h5>
+<h5 align="center">- 🔭 I’m currently working on Smart personal assistant</h5>
+<h6 align="center">- 👯 I’m looking to collaborate on Starting a Startup</h6>
+<h7 align="center">- 📫 How to reach me: mohamadmahdiamini122@gmail.com</h7>
+<h8 align="center">- ⚡ Fun fact: In 2016, a challenge was developed that asked AI systems to write a meaningful and beautiful poem, and the result was very interesting! AI systems wrote poems that some of them were very beautiful and acceptable, while others were funny and meaningless.</h8>
 
 
