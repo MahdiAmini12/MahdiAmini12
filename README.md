@@ -15,9 +15,9 @@
 
 ***
 
-<h5 align="center">- 🔭 I’m currently working on Smart personal assistant</h5>
+<p align="center">- 🔭 I’m currently working on Smart personal assistant</p>
 
-<h6 align="center">- 👯 I’m looking to collaborate on Starting a Startup</h6>
+<p align="center">- 👯 I’m looking to collaborate on Starting a Startup</p>
 
 <h7 align="center">- 📫 How to reach me: mohamadmahdiamini122@gmail.com</h7>
 
