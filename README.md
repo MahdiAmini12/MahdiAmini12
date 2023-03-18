@@ -15,11 +15,11 @@
 
 ***
 
-<p align="center">- 🔭 I’m currently working on Smart personal assistant</p>
+<p align="center">- 🔭 I’m currently working on Smart personal assistant                         </p>
 
-<p align="center">- 👯 I’m looking to collaborate on Starting a Startup</p>
+<p align="center">- 👯 I’m looking to collaborate on Starting a Startup                          </p>
 
-<p align="center">- 📫 How to reach me: mohamadmahdiamini122@gmail.com</p>
+<p align="center">- 📫 How to reach me: mohamadmahdiamini122@gmail.com                           </p>
 
 <p align="center">- ⚡ Fun fact: In 2016, a challenge was developed that asked AI systems to write a meaningful and beautiful poem, and the result was very interesting! AI systems wrote poems that some of them were very beautiful and acceptable, while others were funny and meaningless.</p>
 
