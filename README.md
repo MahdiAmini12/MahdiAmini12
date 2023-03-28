@@ -10,7 +10,7 @@
 
 ### Libraries & Framework :
 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow%20-007ACC?style=for-the-badge&logo=react&logoColor=ffffff)
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=ffffff)](https://www.tensorflow.org/)
 ![Keras](https://img.shields.io/badge/-Keras-563D7C?style=for-the-badge&logo=Keras&logoColor=ffffff)
 ![PyTorch‌](https://img.shields.io/badge/-PyTorch‌%20CSS-22D3EE?style=for-the-badge&logo=PyTorch‌&logoColor=ffffff)
 
