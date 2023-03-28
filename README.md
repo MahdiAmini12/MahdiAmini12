@@ -2,7 +2,17 @@
 <p align="center"> It's me MOHAMMAD MEHDI RASOOL AMINI. I Love ❤️ Programming, K-dramas, Movies</p>
 <img align="right" src="https://sobhan.institute/wp-content/uploads/2022/10/14123444.jpg" height="250" width="400">
 
-<h3 align="center"> Language & Skills </h3>
+## **Technologies**
+### Language :
+
+![Python](https://img.shields.io/badge/-Python-%23F7DF1C?style=for-the-badge&logo=python&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
+
+
+
+
+
+
 
 - Python
 - Machine Learning
