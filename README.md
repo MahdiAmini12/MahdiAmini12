@@ -8,7 +8,11 @@
 ![Python](https://img.shields.io/badge/-python-%23F7DF1C?style=for-the-badge&logo=python&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![C](https://img.shields.io/badge/-c-%231572B6?style=for-the-badge&logo=c)
 
+### Libraries & Framework :
 
+![TensorFlow](https://img.shields.io/badge/-TensorFlow%20JS-007ACC?style=for-the-badge&logo=react&logoColor=ffffff)
+![Keras](https://img.shields.io/badge/-Keras-563D7C?style=for-the-badge&logo=Keras&logoColor=ffffff)
+![PyTorch‌](https://img.shields.io/badge/-PyTorch‌%20CSS-22D3EE?style=for-the-badge&logo=PyTorch‌&logoColor=ffffff)
 
 
 
