@@ -22,7 +22,7 @@
 [![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=Keras&logoColor=ffffff)](https://keras.io/)
 [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=ffffff)](https://pytorch.org/)
 
-<img align="right" src="https://setare.com/files/1401/06/15/12.jpg" height="250" width="400">
+<!-- <img align="right" src="https://setare.com/files/1401/06/15/12.jpg" height="250" width="400"> -->
 
 ### Tools:
 
