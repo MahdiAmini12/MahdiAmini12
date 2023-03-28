@@ -30,13 +30,14 @@
 
 ***
 
-## **:raising_hand: How to reach me**
+## **:raising_hand_man: How to reach me**
 
 <div align="center" style="text-align:center">
     <a href="mailto:mohamadmahdiamini122@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
             alt="Fojan's Gmail">
 </div>
+ 
 ***
 
 - 🔭 I’m currently working on Smart personal assistant                     
