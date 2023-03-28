@@ -5,7 +5,7 @@
 ## **Technologies**
 ### Language :
 
-![Python](https://img.shields.io/badge/-Python-%23F7DF1C?style=for-the-badge&logo=python&logoColor=000000&labelColor=%231572B6&color=%23FFCE5A)
+![CSS3](https://img.shields.io/badge/-Python-%231572B6?style=for-the-badge&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 
 
