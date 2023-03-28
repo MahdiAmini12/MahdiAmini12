@@ -5,8 +5,8 @@
 ## **Technologies**
 ### Language :
 
-![CSS3](https://img.shields.io/badge/-Python-%231572B6?style=for-the-badge&logo=css3)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
+![python](https://img.shields.io/badge/-Python-%231572B6?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/-C-%23E44D27?style=for-the-badge&logo=C&logoColor=ffffff)
 
 
 
