@@ -18,6 +18,8 @@
 [![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=Keras&logoColor=ffffff)](https://keras.io/)
 [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=ffffff)](https://pytorch.org/)
 
+<img align="right" src="file:///C:/Users/Mahdi%20Amini/Downloads/Screenshot%202023-03-25%20035028.png" height="250" width="400">
+
 ### Tools:
 
 ![Github](https://img.shields.io/badge/-Github-444444?style=for-the-badge&logo=github&logoColor=ffffff)
