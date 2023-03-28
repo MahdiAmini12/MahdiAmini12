@@ -2,7 +2,13 @@
 
 ![](https://komarev.com/ghpvc/?username=MahdiAmini12)<br/>
 <p align="center"> It's me MOHAMMAD MEHDI RASOOL AMINI. I Love ❤️ Programming, K-dramas, Movies</p>
-<img align="right" src="https://sobhan.institute/wp-content/uploads/2022/10/14123444.jpg" height="250" width="400">
+<div>
+    <img align="right" src="https://sobhan.institute/wp-content/uploads/2022/10/14123444.jpg" height="250" width="400">
+</div>
+<br>
+<div>
+    <img align="right" src="https://setare.com/files/1401/06/15/12.jpg" height="250" width="400">
+</div>
 
 ## **Technologies**
 ### Language :
@@ -47,5 +53,3 @@
 - 🔭 I’m currently working on Smart personal assistant                     
 - 👯 I’m looking to collaborate on Starting a Startup          
 - ⚡ Fun fact: In 2016, a challenge was developed that asked AI systems to write a meaningful and beautiful poem, and the result was very interesting! AI systems wrote poems that some of them were very beautiful and acceptable, while others were funny and meaningless.</p>
-
-
