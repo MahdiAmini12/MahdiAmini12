@@ -1,55 +1,43 @@
-<h1 align="center"> Hi there 👋 </h1>
+<h1 align="center">Hi 👋, I'm Mahdi</h1>
+<h3 align="center">A passionate computer science student with a focus on Network and cybersecurity</h3>
 
-![](https://komarev.com/ghpvc/?username=MahdiAmini12)<br/>
-<p align="center"> It's me MOHAMMAD MEHDI RASOOL AMINI. I Love ❤️ Programming, K-dramas, Movies</p>
-<div>
-    <img align="right" src="https://sobhan.institute/wp-content/uploads/2022/10/14123444.jpg" height="250" width="400">
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdiamini12&label=Profile%20views&color=0e75b6&style=flat" alt="mahdiamini12" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdiamini12" alt="mahdiamini12" /></a> </p>
 
-## **Technologies**
-### Language :
+- 🔭 I’m currently working on **Performance Analysis of Docker & Podman – A research project comparing containerization tools for efficiency and security.**
 
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
-[![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=ffffff)](https://en.wikipedia.org/wiki/C_(programming_language))
+- 🌱 I’m currently learning **I’m currently learning advanced cybersecurity, Linux kernel performance analysis, networking, and AI-driven security systems. (MCSA Certified)**
 
-### Libraries & Framework :
+- 👯 I’m looking to collaborate on **Honeypot Cybersecurity Project – Developing a smart honeypot system to analyze cyber attacks.**
 
-[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=ffffff)](https://www.tensorflow.org/)
-[![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=Keras&logoColor=ffffff)](https://keras.io/)
-[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=ffffff)](https://pytorch.org/)
+- 🤝 I’m looking for help with **Enhancing Homomorphic Encryption Performance – Optimizing the BFV algorithm for cloud computing.**
 
-<br>
-<div>
-    <img align="right" src="https://setare.com/files/1401/06/15/12.jpg" height="250" width="400">
-</div>
+- 👨‍💻 All of my projects are available at [https://github.com/MahdiAmini12?tab=repositories](https://github.com/MahdiAmini12?tab=repositories)
 
-### Tools:
+- 📝 I regularly write articles on [https://medium.com/@mohamadmahdiamini122](https://medium.com/@mohamadmahdiamini122)
 
-![Github](https://img.shields.io/badge/-Github-444444?style=for-the-badge&logo=github&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=ffffff)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
-[![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=ffffff)](https://www.jetbrains.com/pycharm/)
+- 💬 Ask me about **Network, cybersecurity, Linux performance tuning, ethical hacking**
 
-### Skills :
+- 📫 How to reach me **mohamadmahdiamini122@gmail.com**
 
-- Speech and audio processing
-- Image Processing
- 
-<h4 align="center">Follow your dreams</h4>
+- 📄 Know about my experiences [https://quera.org/profile/MahdiAmini12](https://quera.org/profile/MahdiAmini12)
 
-***
+- ⚡ Fun fact **I can break into my own systems just to optimize their security! 😎**
 
-## **:raising_hand_man: How to reach me**
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<div align="center" style="text-align:center">
-    <a href="mailto:mohamadmahdiamini122@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
-            alt="Fojan's Gmail">
-</div>
- 
-***
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/mahdiamini12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mahdiamini12" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/mohammadmahdirasoolamini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mohammadmahdirasoolamini" height="30" width="40" /></a>
+<a href="https://instagram.com/mahdi_amini122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahdi_amini122" height="30" width="40" /></a>
+<a href="https://medium.com/@mohamadmahdiamini122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohamadmahdiamini122" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on Smart personal assistant                     
-- 👯 I’m looking to collaborate on Starting a Startup          
-- ⚡ Fun fact: In 2016, a challenge was developed that asked AI systems to write a meaningful and beautiful poem, and the result was very interesting! AI systems wrote poems that some of them were very beautiful and acceptable, while others were funny and meaningless.</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdiamini12&show_icons=true&locale=en&layout=compact" alt="mahdiamini12" /></p>
