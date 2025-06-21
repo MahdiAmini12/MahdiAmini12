@@ -1,43 +1,99 @@
 <h1 align="center">Hi 👋, I'm Mahdi</h1>
-<h3 align="center">A passionate computer science student with a focus on Network and cybersecurity</h3>
+<h3 align="center">💻 A Passionate Computer Science Student | 🌐 Network & Cybersecurity Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdiamini12&label=Profile%20views&color=0e75b6&style=flat" alt="mahdiamini12" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahdiamini12&label=Profile%20views&color=0e75b6&style=flat" alt="mahdiamini12" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdiamini12" alt="mahdiamini12" /></a> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahdiamini12&theme=onedark&margin-w=10&margin-h=10" alt="Trophies" />
+</p>
 
-- 🔭 I’m currently working on **Performance Analysis of Docker & Podman – A research project comparing containerization tools for efficiency and security.**
+<div align="center">
+  <img src="https://sobhan.institute/wp-content/uploads/2022/10/14123444.jpg" width="300" />
+</div>
 
-- 🌱 I’m currently learning **I’m currently learning advanced cybersecurity, Linux kernel performance analysis, networking, and AI-driven security systems. (MCSA Certified)**
+---
 
-- 👯 I’m looking to collaborate on **Honeypot Cybersecurity Project – Developing a smart honeypot system to analyze cyber attacks.**
+### 🧠 About Me
 
-- 🤝 I’m looking for help with **Enhancing Homomorphic Encryption Performance – Optimizing the BFV algorithm for cloud computing.**
+- 🔭 Currently working on **Performance Analysis of Docker & Podman**  
+- 🌱 Exploring **advanced cybersecurity, Linux kernel performance tuning, and AI-driven security systems**  
+- 👯 Open to collaborate on **Smart Honeypot Cybersecurity Project**  
+- 🤝 Seeking contributors for **Homomorphic Encryption Optimization (BFV algorithm)**  
+- 📝 I write technical blogs on [Medium](https://medium.com/@mohamadmahdiamini122)  
+- 📄 Know more about my experiences on [Quera](https://quera.org/profile/MahdiAmini12)  
+- ⚡ Fun Fact: _"I break into my own systems to secure them better! 😎"_
 
-- 👨‍💻 All of my projects are available at [https://github.com/MahdiAmini12?tab=repositories](https://github.com/MahdiAmini12?tab=repositories)
+---
 
-- 📝 I regularly write articles on [https://medium.com/@mohamadmahdiamini122](https://medium.com/@mohamadmahdiamini122)
+### 🛠️ Tech Stack & Tools
 
-- 💬 Ask me about **Network, cybersecurity, Linux performance tuning, ethical hacking**
+#### 💻 Languages
 
-- 📫 How to reach me **mohamadmahdiamini122@gmail.com**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
-- 📄 Know about my experiences [https://quera.org/profile/MahdiAmini12](https://quera.org/profile/MahdiAmini12)
+#### ⚙️ Frameworks & Libraries
 
-- ⚡ Fun fact **I can break into my own systems just to optimize their security! 😎**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### Blogs posts
+#### 🧰 Tools & Platforms
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahdiamini12&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdiamini12&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top languages" />
+</p>
+
+---
+
+### 🧩 Skills & Interests
+
+- 📡 **Network Security & Ethical Hacking**
+- 🐧 **Linux Kernel Optimization**
+- 🔒 **Cryptography & Secure Systems**
+- 🤖 **AI in Security**
+- 🎧 **Audio & Speech Processing**
+- 📷 **Image Processing**
+
+---
+
+### 📝 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/mahdiamini12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mahdiamini12" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/mohammadmahdirasoolamini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mohammadmahdirasoolamini" height="30" width="40" /></a>
-<a href="https://instagram.com/mahdi_amini122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahdi_amini122" height="30" width="40" /></a>
-<a href="https://medium.com/@mohamadmahdiamini122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohamadmahdiamini122" height="30" width="40" /></a>
+---
+
+### 📬 Connect with Me
+
+<p align="center">
+  <a href="mailto:mohamadmahdiamini122@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohammadmahdirasoolamini" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/mahdi_amini122" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://medium.com/@mohamadmahdiamini122" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://dev.to/mahdiamini12" target="_blank"><img src="https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdiamini12&show_icons=true&locale=en&layout=compact" alt="mahdiamini12" /></p>
+<h4 align="center">✨ "Follow your dreams and secure your future — one byte at a time." ✨</h4>
