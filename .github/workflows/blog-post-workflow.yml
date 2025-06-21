@@ -1,15 +1,10 @@
 name: Latest blog post workflow
 
 on:
-  schedule:
-    - cron: '0 * * * *'  # اجرای خودکار هر ساعت
-  workflow_dispatch:      # اجرای دستی در صورت نیاز
+  workflow_dispatch:
 
 jobs:
-  update-readme-with-blog:
+  ping:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://medium.com/feed/@mohamadmahdiamini122"
+      - run: echo "سلام Mahdi 👋 این فقط یه تست ساده‌ست!"
