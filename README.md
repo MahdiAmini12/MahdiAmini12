@@ -37,10 +37,11 @@
 
 #### ⚙️ Frameworks & Libraries
 
+![Scapy](https://img.shields.io/badge/Scapy-FF4500?style=for-the-badge&logo=python&logoColor=white)
+![Socket Programming](https://img.shields.io/badge/Socket%20Programming-00599C?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
-![Scapy](https://img.shields.io/badge/Scapy-FF4500?style=for-the-badge&logo=python&logoColor=white)
 
 #### 🧰 Tools & Platforms
 
