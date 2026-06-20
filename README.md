@@ -2,9 +2,8 @@
 
 ### Computer Science Student | Red Team & Offensive Security Enthusiast
 
-- 🔭 Preparing for MS in Cybersecurity at Sharif University
-- 🌱 Focus: **Network Security**, **Malware Analysis**, **Reverse Engineering** and **Custom Tool Development**
-- 🛠️ Currently building practical security tools and improving my research portfolio
+- 🌱 Focus: **Network Security**, **Malware Analysis (Ransomware)**, **Reverse Engineering** and **Custom Tool Development**
+- 🛠️ Building practical offensive security tools with Python and C
 - 📝 Writing about cybersecurity on [Medium](https://medium.com/@mohamadmahdiamini122)
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/mohammadmahdirasoolamini) | [Email](mailto:mohamadmahdiamini122@gmail.com)
 
@@ -12,23 +11,16 @@
 
 ### 🧠 Main Interests
 - Network Security & Reconnaissance
-- Malware Development and Analysis
+- Malware Development and Analysis (especially Ransomware)
 - Reverse Engineering
-- Linux & Container Security
-- Offensive Tool Development (Python & C)
+- Offensive Security Tooling
 
 ---
 
 ### 🛠️ Tech Stack
 **Languages:** Python • C • Bash  
-**Tools:** Nmap • Wireshark • Metasploit • Burp Suite • Ghidra • Scapy • Docker  
+
+**Tools & Libraries:**  
+Nmap • Wireshark • Metasploit • Burp Suite • Ghidra • Scapy • Socket Programming • Subprocess
+
 **Platforms:** Linux • Git
-
----
-
-### 🔥 Featured Projects
-- [Bachelor Project: Docker vs Podman Performance & Security Analysis](link-to-repo)
-- [Port Scanner Tool](link-to-repo)
-- [CTF Write-ups & Challenges](link-to-repo)
-
-*(بعداً لینک repoها رو درست اضافه کن)*
