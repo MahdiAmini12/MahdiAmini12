@@ -6,7 +6,7 @@
 - 🌱 Focus: **Network Security**, **Network Hacking**, **Malware Analysis**, **Reverse Engineering** and **Tool Development**
 - 🛠️ Currently improving my skills in Python tool development and learning C
 - 📝 I write about cybersecurity on [Medium](https://medium.com/@mohamadmahdiamini122)
-- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/mohammadmahdirasoolamini) | [Email](mailto:mohamadmahdiamini122@gmail.com)
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/mohammadmahdirasoulamini) | [Email](mailto:mohamadmahdiamini122@gmail.com)
 
 ---
 
