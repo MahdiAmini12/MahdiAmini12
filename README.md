@@ -1,102 +1,34 @@
-<h1 align="center">Hi 👋, I'm Mahdi</h1>
-<h3 align="center">💻 A Passionate Computer Science Student | 🌐 Network & Cybersecurity Enthusiast</h3>
+# Hi 👋, I'm Mahdi Amini
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahdiamini12&label=Profile%20views&color=0e75b6&style=flat" alt="mahdiamini12" />
-</p>
+### Computer Science Student | Red Team & Offensive Security Enthusiast
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahdiamini12&theme=onedark&margin-w=10&margin-h=10" alt="Trophies" />
-</p>
-
-<div align="center">
-  <img src="https://sobhan.institute/wp-content/uploads/2022/10/14123444.jpg" width="300" />
-</div>
+- 🔭 Preparing for MS in Cybersecurity at Sharif University
+- 🌱 Focus: **Network Security**, **Malware Analysis**, **Reverse Engineering** and **Custom Tool Development**
+- 🛠️ Currently building practical security tools and improving my research portfolio
+- 📝 Writing about cybersecurity on [Medium](https://medium.com/@mohamadmahdiamini122)
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/mohammadmahdirasoolamini) | [Email](mailto:mohamadmahdiamini122@gmail.com)
 
 ---
 
-### 🧠 About Me
-
-- 🔭 Currently working on **Performance Analysis of Docker & Podman**  
-- 🌱 Exploring **advanced cybersecurity, Linux kernel performance tuning, and AI-driven security systems**  
-- 👯 Open to collaborate on **Smart Honeypot Cybersecurity Project**  
-- 🤝 Seeking contributors for **Homomorphic Encryption Optimization (BFV algorithm)**  
-- 📝 I write technical blogs on [Medium](https://medium.com/@mohamadmahdiamini122)  
-- 📄 Know more about my experiences on [Quera](https://quera.org/profile/MahdiAmini12)  
-- ⚡ Fun Fact: _"I break into my own systems to secure them better! 😎"_
+### 🧠 Main Interests
+- Network Security & Reconnaissance
+- Malware Development and Analysis
+- Reverse Engineering
+- Linux & Container Security
+- Offensive Tool Development (Python & C)
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-#### 💻 Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-
-#### ⚙️ Frameworks & Libraries
-
-![Scapy](https://img.shields.io/badge/Scapy-FF4500?style=for-the-badge&logo=python&logoColor=white)
-![Socket Programming](https://img.shields.io/badge/Socket%20Programming-00599C?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
-
-#### 🧰 Tools & Platforms
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### 🛠️ Tech Stack
+**Languages:** Python • C • Bash  
+**Tools:** Nmap • Wireshark • Metasploit • Burp Suite • Ghidra • Scapy • Docker  
+**Platforms:** Linux • Git
 
 ---
 
-### 🔥 GitHub Stats
+### 🔥 Featured Projects
+- [Bachelor Project: Docker vs Podman Performance & Security Analysis](link-to-repo)
+- [Port Scanner Tool](link-to-repo)
+- [CTF Write-ups & Challenges](link-to-repo)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahdiamini12&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdiamini12&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top languages" />
-</p>
-
----
-
-### 🧩 Skills & Interests
-
-- 📡 **Network Security & Ethical Hacking**
-- 🐧 **Linux Kernel Optimization**
-- 🔒 **Cryptography & Secure Systems**
-- 🤖 **AI in Security**
-- 🎧 **Audio & Speech Processing**
-- 📷 **Image Processing**
-
----
-
-### 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Docker — Transforming Development and Execution](https://medium.com/@mohamadmahdiamini122/docker-%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8-%D8%AF%D8%B1-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D9%88-%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%87%D8%A7-b53f1c79abf9?source=rss-e0df4693dec2------2)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 📬 Connect with Me
-
-<p align="center">
-  <a href="mailto:mohamadmahdiamini122@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mohammadmahdirasoolamini" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/mahdi_amini122" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://medium.com/@mohamadmahdiamini122" target="_blank"><img src="https://img.shields.io/badge/Medium-00ab6c?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://dev.to/mahdiamini12" target="_blank"><img src="https://img.shields.io/badge/Dev.to-303030?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
-</p>
-
----
-
-<h4 align="center">✨ "Follow your dreams and secure your future — one byte at a time." ✨</h4>
+*(بعداً لینک repoها رو درست اضافه کن)*
