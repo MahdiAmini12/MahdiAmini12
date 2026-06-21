@@ -24,4 +24,11 @@
 **Languages:** Python • Bash • (Learning C)  
 **Libraries:** Socket • Subprocess • Scapy  
 **Tools:** Nmap • Wireshark • Burp Suite  
-**Platforms:** Linux • Git
+**Platforms:** Linux • Git  
+
+---
+
+## 📰 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
